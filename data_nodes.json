@@ -27,7 +27,7 @@
     {"id": 25, "name": "Stem Cell Transplant", "group":7},
     {"id": 26, "name": "Gastrointestinal Illnesses", "group":8},
     {"id": 27, "name": "Typhoid", "group":8},
-    {"id": 28, "name": "Kidney Failure", "group":1}
+    {"id": 28, "name": "Kidney Failure", "group":8}
   ],
   "links": [
     {"source": "1", "target": "2", "value": 4},
